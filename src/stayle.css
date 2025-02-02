@@ -44,7 +44,7 @@ body{
     top:0;
     left:0;
 }
-.kanban-column[[data-id="1"]::after{
+.kanban-column[data-id="1"]::after{
     background-color: #d573b6;
 }
 .kanban-column[data-id="2"]::after{
